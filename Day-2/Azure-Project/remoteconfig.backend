@@ -1,0 +1,4 @@
+resource_group_name  = "tf-datasource"
+storage_account_name = "mystorageaccountnav"
+container_name       = "final"
+key                  = "bastion-sql-demo.tfstate"
